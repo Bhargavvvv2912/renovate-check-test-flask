@@ -8,6 +8,6 @@ jinja2==2.11.0
 markupsafe==1.1.1
 more-itertools==8.1.0
 packaging==20.1
-py==1.8.1
+py==1.11.0
 wcwidth==0.1.8
 werkzeug==0.16.1
